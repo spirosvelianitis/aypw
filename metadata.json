@@ -1,0 +1,6 @@
+{
+  "name": "All Year Pressure Washing",
+  "description": "Four-season residential and commercial exterior pressure washing, soft washing, and surface restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
